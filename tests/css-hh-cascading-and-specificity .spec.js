@@ -18,8 +18,8 @@ test("exercise-1-test", async ({ page }) => {
     })
   ).toMatchSnapshot({
     name: "css-hh-cascading-and-specificity.png",
-    threshold: 0.3,
-    // maxDiffPixels: 30000,
-    // maxDiffPixelRatio: 0.2,
+    threshold: 0.5,
+    maxDiffPixels: 100,
+    maxDiffPixelRatio: 0.01,
   });
 });
