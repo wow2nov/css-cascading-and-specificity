@@ -1,0 +1,21 @@
+{
+  "name": "css-hh-cascading-and-specificity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techupth/css-hh-cascading-and-specificity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techupth/css-hh-cascading-and-specificity/issues"
+  },
+  "homepage": "https://github.com/techupth/css-hh-cascading-and-specificity#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2"
+  }
+}
